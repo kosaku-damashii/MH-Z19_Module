@@ -7,4 +7,5 @@ MH-Z19_Moduleの特徴<BR>
 - タミヤのユニバーサルプレートに取り付けられる。（取付穴が5mmの倍数にしてある）<BR>
 - 5V昇圧DCDCコンバーター、キャリブレーション用スイッチ 搭載。（GROVE端子ヘは3.3Vを供給してください）<BR>
 
+作り方・使い方については、pdfファイルをご参照下さい。<BR>
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c9d46013-5cb2-47e2-abe6-dc3d880dd416" />
